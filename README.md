@@ -1,4 +1,4 @@
-# C with standard library
+# C without standard library
 
 This project tries to work with the **Linux**
 kernel directly.
